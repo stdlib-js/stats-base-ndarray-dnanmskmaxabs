@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dnanmskmaxabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-dnanmskmaxabs@deno/mod.js';
+import dnanmskmaxabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-dnanmskmaxabs@v0.0.0-deno/mod.js';
 ```
 
 #### dnanmskmaxabs( arrays )
@@ -100,7 +100,7 @@ import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bernoul
 import fillBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-fill-by@deno/mod.js';
 import zeros from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-zeros@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@deno/mod.js';
-import dnanmskmaxabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-dnanmskmaxabs@deno/mod.js';
+import dnanmskmaxabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-dnanmskmaxabs@v0.0.0-deno/mod.js';
 
 function rand() {
     if ( bernoulli( 0.8 ) < 1 ) {
